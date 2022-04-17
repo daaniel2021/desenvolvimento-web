@@ -1,4 +1,4 @@
-.conteudo1{
+/* .conteudo1{
     background:blue;
     border: 1px solid gray;
     width: 150px;
@@ -20,4 +20,12 @@
     width: 150px;
     height: 150px;
     float: center ;
+} */
+
+.conteudo{
+    background:blue;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    float: left ;
 }
